@@ -1,0 +1,6 @@
+sqlalchemy
+flask
+boto3
+requests
+awscli
+flask_cors
